@@ -7,7 +7,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="AppiumSPCSkeleton" />
         <module name="EriBankScreenplayTests" />
+        <module name="h5---make-a-payment-to-three-different-client-yaseminceven" />
       </profile>
     </annotationProcessing>
   </component>
